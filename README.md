@@ -11,6 +11,7 @@ Introduction for this project.
 
 ## test2
 conflict 2 messages
+conflict 1 commit
 ## test3
 
 # Footter
